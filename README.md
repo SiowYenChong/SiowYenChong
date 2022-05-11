@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 [0]: https://www.facebook.com/ChongSiowYen
 [1]: https://about.me/SiowYenChong
 
-*This readme site is inspired by fellow github user, lizheming *
+*This readme site is inspired by fellow github user, lizheming*
