@@ -10,13 +10,13 @@ I work with **Java**, **Python** and **C++**, contact me if you have internship 
 
 ## 📫 Contact Me on Social Media
 
-[LinkedIn][-1] | [Facebook][0] | or just ✉️ [Email](mailto:Clairechong998@1utar.my) | 💬 [Issue](https://github.com/SiowYenChong/SiowYenChong/issues/me) Me about everything!
+[LinkedIn][-1] | [Facebook][0] | [Portfolio][1] or just ✉️ [Email](mailto:Clairechong998@1utar.my) | 💬 [Issue](https://github.com/SiowYenChong/SiowYenChong/issues/me) Me about everything!
 
 ## 💡 Projects 
 
 - [**Movie Booking System**](https://github.com/SiowYenChong/Movie_Ticket_Booking_website): The Movie Booking website with HTML, CSS, JS, AJAX and PHP.
 - [**Car Rental System**](https://github.com/SiowYenChong/CarRentalSystem): The Car Rental System with Java Object Oriented, which allows renting, returning car.
-- [**Mentor-mentee event website**](https://utar-its.github.io/mentor-mentee/): CWebsite designed for IT Society October 2021's Mentor-Mentee, aims to help students in academic during the pandemic.
+- [**Mentor-mentee event website**](https://utar-its.github.io/mentor-mentee/): Website designed for IT Society October 2021's Mentor-Mentee, aims to help students in academic during the pandemic.
  
 ## 💻 Open Source Work Stats
 
@@ -39,3 +39,4 @@ Here are some ideas to get you started:
 -->
 [-1]: https://my.linkedin.com/in/chong-siow-yen
 [0]: https://www.facebook.com/ChongSiowYen
+[1]: https://about.me/SiowYenChong
