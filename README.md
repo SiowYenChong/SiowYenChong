@@ -1,4 +1,4 @@
-## 👋 Introduction
+## 👋 About me
 
 <!--https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif-->
 <img align='right' src='https://octodex.github.com/images/femalecodertocat.png' width='200"'>
@@ -18,7 +18,7 @@ I work with **Java**, **Python** and **C++**, contact me if you have internship 
 - [**Car Rental System**](https://github.com/SiowYenChong/CarRentalSystem): The Car Rental System with Java Object Oriented, which allows renting, returning car.
 - [**Mentor-mentee event website**](https://utar-its.github.io/mentor-mentee/): Website designed for IT Society October 2021's Mentor-Mentee, aims to help students in academic during the pandemic.
  
-## 💻 Open Source Work Stats
+## 💻 Open Source Stats
 
 
 ![SiowYenChong's Github stats](https://github-readme-stats.vercel.app/api?username=SiowYenChong&show_icons=true)
@@ -40,3 +40,5 @@ Here are some ideas to get you started:
 [-1]: https://my.linkedin.com/in/chong-siow-yen
 [0]: https://www.facebook.com/ChongSiowYen
 [1]: https://about.me/SiowYenChong
+
+*This readme site is inspired by fellow github user, lizheming ✨*
