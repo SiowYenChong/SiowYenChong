@@ -10,7 +10,7 @@ I work with **Java**, **Python** and **C++**, contact me if you have internship 
 
 ## 📫 Contact Me on Social Media
 
-[LinkedIn][-1] | [Facebook][0] | [Portfolio][1] or just ✉️ [Email](mailto:Clairechong998@1utar.my) | 💬 [Issue](https://github.com/SiowYenChong/SiowYenChong/issues/me) Me about everything!
+[LinkedIn][-1] or just ✉️ [Email](mailto:Clairechong998@1utar.my) | 💬 [Issue](https://github.com/SiowYenChong/SiowYenChong/issues/me) Me about everything!
 
 ## 💡 Projects 
 
@@ -38,7 +38,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [-1]: https://my.linkedin.com/in/chong-siow-yen
-[0]: https://www.facebook.com/ChongSiowYen
-[1]: https://about.me/SiowYenChong
 
 *This readme site is inspired by fellow github user, lizheming*
