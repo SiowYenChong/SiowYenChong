@@ -6,7 +6,7 @@
 ![status](https://img.shields.io/badge/status-up-brightgreen) ![Gender](https://img.shields.io/badge/gender-%F0%9F%91%A9-lightgrey) ![](https://img.shields.io/static/v1?label=linkedin&message=chong-siow-yen&color=7BB32E&logo=linkedin) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/SiowYenChong)
 
 Hi guys, I'm **Siow Yen Chong**. I am a Software Engineering Student from UTAR, Malaysia.  
-I work with **Java**, **Python** and **C++**, contact me if you have internship opportunities to offer this October 2022!
+I work with **Java**, **Python** and **C++**, contact me if you have full-time opportunities to offer this November 2023!
 
 ## 📫 Contact Me on Social Media
 
