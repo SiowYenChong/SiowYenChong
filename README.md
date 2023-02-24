@@ -14,8 +14,9 @@ I work with **Java**, **Python** and **C++**, contact me if you have full-time o
 
 ## 💡 Projects 
 
-- [**Movie Booking System**](https://github.com/SiowYenChong/Movie_Ticket_Booking_website): The Movie Booking website with HTML, CSS, JS, AJAX and PHP.
-- [**Car Rental System**](https://github.com/SiowYenChong/CarRentalSystem): The Car Rental System with Java Object Oriented, which allows renting, returning car.
+- [**Movie Booking System**](https://github.com/SiowYenChong/Movie_Ticket_Booking_website): Movie Booking website built with HTML, CSS, JS, AJAX and PHP.
+- [**Grocery Shopping Android App**](https://github.com/SiowYenChong/myGrocery_React_Native_Application): Grocery Shopping Android App built with React Native, Javascript, Python, and Flask.
+- [**Car Rental System**](https://github.com/SiowYenChong/CarRentalSystem): Car Rental System built with Java Object Oriented, which allows renting, returning car.
 - [**Mentor-mentee event website**](https://utar-its.github.io/mentor-mentee/): Website designed for IT Society October 2021's Mentor-Mentee, aims to help students in academic during the pandemic.
  
 ## 💻 Open Source Stats
