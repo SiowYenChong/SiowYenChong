@@ -13,7 +13,7 @@ I work with **Java**, **Python** and **C++**, contact me if you have full-time o
 [LinkedIn][-1] or just ✉️ [Email](mailto:Clairechong998@1utar.my) | 💬 [Issue](https://github.com/SiowYenChong/SiowYenChong/issues/me) Me about everything!
 
 ## 💡 Projects 
-
+- [**ReactJS Porfolio Website**](siowyenchong.vercel.app): Portfolio website built with React JS and enhanced with framer-motion for stunning animations..
 - [**Movie Booking System**](https://github.com/SiowYenChong/Movie_Ticket_Booking_website): Movie Booking website built with HTML, CSS, JS, AJAX and PHP.
 - [**Grocery Shopping Android App**](https://github.com/SiowYenChong/myGrocery_React_Native_Application): Grocery Shopping Android App built with React Native, Javascript, Python, and Flask.
 - [**Car Rental System**](https://github.com/SiowYenChong/CarRentalSystem): Car Rental System built with Java Object Oriented, which allows renting, returning car.
