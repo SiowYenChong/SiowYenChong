@@ -39,7 +39,7 @@ I work with **C#**, **Java**, **Python** and **C++**, contact me if you have ful
   </p>
 </div>
 
-## Employer?
+## 💼 Employer
 
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/file/d/1296fS-8FiNRE3XWdZ77dGEWPU_5z6uUj/view" download>Download my resume</a>
