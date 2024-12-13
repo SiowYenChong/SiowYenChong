@@ -26,7 +26,6 @@ I work with **C#**, **Java**, **Python** and **C++**, contact me if you have ful
 - [**Car Rental System**](https://github.com/SiowYenChong/CarRentalSystem): Car Rental System built with Java Object Oriented, which allows renting, returning car.
 - [**Mentor-mentee event website**](https://utar-its.github.io/mentor-mentee/): Website designed for IT Society October 2021's Mentor-Mentee, aims to help students in academic during the pandemic.
 
-
 ## 💻 Open Source Stats
 
 <div class="badges-githubstats">
@@ -36,6 +35,13 @@ I work with **C#**, **Java**, **Python** and **C++**, contact me if you have ful
   </p>
   <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiowYenChong&theme=rose&layout=compact" alt="SiowYenChong's Top Lang" height="180">
+  </p>
+</div>
+
+## 🚵‍♀️ Ongoing Quests
+<div class="github-accomplishments">
+  <p>
+      <img src="https://github-profile-trophy.vercel.app/?username=SiowYenChong&theme=rose&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> <br>
   </p>
 </div>
 
