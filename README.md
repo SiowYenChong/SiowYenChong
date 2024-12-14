@@ -17,7 +17,7 @@ I work with **C#**, **Java**, **Python** and **C++**, contact me if you have ful
 
 ## 📫 Contact Me on Social Media
 
-[LinkedIn][-1] or just ✉️ [Email](mailto:Clairechong998@1utar.my) | 💬 [Issue](https://github.com/SiowYenChong/SiowYenChong/issues/me) Me about everything!
+[LinkedIn][-1] or just ✉️ [Email](mailto:Clairechong998@gmail.com) | 💬 [Issue](https://github.com/SiowYenChong/SiowYenChong/issues/me) Me about everything!
 
 ## 💡 Projects 
 - [**ReactJS Porfolio Website**](siowyenchong.vercel.app): Portfolio website built with React JS and enhanced with framer-motion for stunning animations..
