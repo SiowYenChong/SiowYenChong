@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=1000&size=30&duration=2500&pause=500&color=AF354E&center=true&vCenter=true&repeat=false&width=435&lines=Hello+World!;I+am+Siow+Yen+Chong;Welcome+to+my+GitHub+%F0%9F%8C%90%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-Hi guys, I'm **Siow Yen Chong**. 
+Hi all, I'm **Siow Yen Chong**. 
 I am a Full Stack Software Engineer, in Finance industry.  
 I work with **C#**, **Java**, **Python** and **C++**, contact me if you have full-time opportunities to offer!
 
